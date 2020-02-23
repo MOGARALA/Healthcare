@@ -1,1 +1,3 @@
-# Healthcare
+# maven-project
+
+Simple Maven Project
